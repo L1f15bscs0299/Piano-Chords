@@ -4,7 +4,7 @@ https://ndaidong.github.io/piano-chords/      -----------> LIVE DEMO
 
 
 Install 
-git clone https://github.com/techpush/piano-chords.git
+git clone link 
 cd piano-chords
 
 // install node packages
